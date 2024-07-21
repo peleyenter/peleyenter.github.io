@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://peleyenter.github.io/sitemap
+Sitemap: https://peleyenter.github.io/app/sitemap
+Sitemap: https://peleyenter.github.io/assets/sitemap
+Sitemap: https://peleyenter.github.io/css/sitemap
+Sitemap: https://peleyenter.github.io/includes/sitemap
+Sitemap: https://peleyenter.github.io/item/sitemap
+Sitemap: https://peleyenter.github.io/src/sitemap
